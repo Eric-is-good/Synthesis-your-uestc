@@ -7,3 +7,4 @@ how to change the pic you can do this:
    4.click Sources --> overrides --> +slect... ,add the file "top"
    5.refresh your page
    6.enjoy !
+or you can enter my QQ space
